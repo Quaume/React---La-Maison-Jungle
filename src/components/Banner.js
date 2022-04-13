@@ -3,7 +3,7 @@ import logo from '../assets/logo.png'
 import Recommendation from './Recommendation'
 
 function Banner() {
-    const title = 'La maison jungle TEST'
+    const title = 'La maison jungle'
 
     
 
